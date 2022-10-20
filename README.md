@@ -6,9 +6,9 @@
 - 💡 Every day innovating and learning a new technology
 
 <div>
-  <a href="https://github.com/clonedolucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clonedolucas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clonedolucas&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <a href="https://github.com/lbmiotto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbmiotto&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbmiotto&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
 ### My Technologies 👾
